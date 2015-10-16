@@ -31,7 +31,8 @@ http://www.diku.dk/ominstituttet/udvalg/undervisningsudvalget/
 
 * **Institutrådet** -- *Caro og René* -- TODO
 
-* **Studienævnet for Matematik og Datalogi (SNMD)** -- hvem? -- behandler
+
+* **Studienævnet for Matematik og Datalogi (SNMD)** -- *Caro* -- behandler
 personsager for studerende, men bruger også en del tid på uddannelsesstrategi og
 -udvikling.  På nogle af de områder er vi også tildelt afgørelseskompetencer
 uden om rektor/dekanen.  Studienævnet mødes cirka hver anden uge.  Studienævnets
