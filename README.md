@@ -29,7 +29,14 @@ undervisningrelevant.  Udvalget består af tre studerende og en bunke VIP'er.
 Offentlig medlemsliste:
 http://www.diku.dk/ominstituttet/udvalg/undervisningsudvalget/
 
-* **Institutrådet** -- *Caro og René* -- TODO
+* **Institutrådet** -- *Caro og René* -- mødes ca. 4 gange om året, og er et
+*rådgivende* organ, mest i forhold til strategiske beslutninger, fysiske rammer og
+studiemiljø.
+[Læs mere her](https://intranet.ku.dk/diku/about_diku/committees/Pages/DepartmentCouncil.aspx)
+og mere pæcist
+[her](https://intranet.ku.dk/diku/about_diku/committees/Documents/Rules%20of%20procedure%20for%20the%20Department%20Council%20at%20DIKU-%2022%20April%202013.pdf).
+Optimalt set skal vi være repræsenteret med en bachelor og en kandidat
+studerende.
 
 
 * **Studienævnet for Matematik og Datalogi (SNMD)** -- *Caro* -- behandler
