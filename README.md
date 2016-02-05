@@ -23,7 +23,7 @@ I tvivl om forkortelser eller akadamiske udtryk?  Se vores [ordbog](ordbog.md).
 Her er en lille oversigt over de råd og udvalg som personer fra fagrådet sidder
 med i.
 
-* **Undervisningsudvalget** -- *Niels, Jenny og Rasmus fra Nat-IT* -- mødes
+* **Undervisningsudvalget** -- *Niels og Rasmus fra Nat-IT* -- mødes
 cirka en gang eller to hver anden måned og gennemgår kursusevaluering og andet
 undervisningrelevant.  Udvalget består af tre studerende og en bunke VIP'er.
 Offentlig medlemsliste:
